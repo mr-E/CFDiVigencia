@@ -13,19 +13,20 @@ CFDiVigencia
 
 Descripción
 -----------
-Comprueba la vigencia de comprobantes CFDi en la ruta especificada usando el web service de s@t@n@s ;).
+Aplicación en Python para comprobar la vigencia de comprobantes CFDi en la ruta especificada usando el web service del SAT.
 
-Objetivos
------------
-Lograr que funcione a partir de la version 2.7 a la más reciente en este momento 3.4.3
-Se ha comprobado que funciona en python 2.7.3
-
-Futuras Mejoras
+Alcances
 -----------
 
+    + Que me sirva de aprendizaje en Python (xml, webservice, qrcode, pdf, gui/tk/qt)
     + Integrar un visor (CFDView) que genere la representación impresa un formato simple "sin moños"
     + Que detecte correctamente el tipo de comprobante (factura, nomina, etc.)
     + Que soporte "drag & drop" ¿será posible en Python + GUI: tk/Qt?
+
+Problemas iniciales
+-----------
+PySimpleSOAP v1.16 me esta dando problemas en python +3.2.3
+Se ha comprobado que funciona en python 2.7.3
 
 Fallas detectadas:
 -----------
