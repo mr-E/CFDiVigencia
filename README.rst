@@ -17,8 +17,14 @@ Comprueba la vigencia de comprobantes CFDi en la ruta especificada usando el web
 
 Objetivos
 -----------
-Logra que funcione a partir de la version 2.7 a la más reciente en este momento 3.4.3
+Lograr que funcione a partir de la version 2.7 a la más reciente en este momento 3.4.3
 Se ha comprobado que funciona en python 2.7.3
+
+Futuras Mejoras
+-----------
+Integrar un visor (CFDView) que genere la representación impresa un formato simple "sin moños"
+Que detecte correctamente el tipo de comprobante (factura, nomina, etc.)
+Que soporte "drag & drop" ¿será posible en Python + GUI: tk/Qt?
 
 Fallas detectadas:
 -----------
