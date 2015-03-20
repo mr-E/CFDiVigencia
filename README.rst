@@ -8,7 +8,7 @@ CFDiVigencia
     2015/03/20
 
 :Versión:
-    0.0.0
+    0.0.20150320
 
 
 Descripción
