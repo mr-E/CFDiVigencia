@@ -22,9 +22,10 @@ Se ha comprobado que funciona en python 2.7.3
 
 Futuras Mejoras
 -----------
-Integrar un visor (CFDView) que genere la representación impresa un formato simple "sin moños"
-Que detecte correctamente el tipo de comprobante (factura, nomina, etc.)
-Que soporte "drag & drop" ¿será posible en Python + GUI: tk/Qt?
+
+    + Integrar un visor (CFDView) que genere la representación impresa un formato simple "sin moños"
+    + Que detecte correctamente el tipo de comprobante (factura, nomina, etc.)
+    + Que soporte "drag & drop" ¿será posible en Python + GUI: tk/Qt?
 
 Fallas detectadas:
 -----------
