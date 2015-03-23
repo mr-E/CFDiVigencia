@@ -25,6 +25,10 @@ Objetivos y alcances
     + Básicamente he integrado las ideas de otros trantando con ello de aprender Python y crear algo útil. (seguro ya existe)
     + Si con esto sale algo útil para la comunidad y que algo aprendamos.
 
+Lectura recomendada:
+-------------------
+    + http://eli.thegreenplace.net/2012/03/15/processing-xml-in-python-with-elementtree
+
 Problemas iniciales
 -----------
 PySimpleSOAP v1.16 me esta dando problemas en python +3.2.3
