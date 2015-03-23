@@ -15,13 +15,15 @@ Descripción
 -----------
 Aplicación en Python para comprobar la vigencia de comprobantes CFDi en la ruta especificada usando el web service del SAT.
 
-Alcances
+Objetivos y alcances
 -----------
 
-    + Que me sirva de aprendizaje en Python (xml, webservice, qrcode, pdf, gui/tk/qt)
+    + Para aprendizaje en Python (xml, webservice, qrcode, pdf, gui/tk/qt)
     + Integrar un visor (CFDView) que genere la representación impresa un formato simple "sin moños"
     + Que detecte correctamente el tipo de comprobante (factura, nomina, etc.)
     + Que soporte "drag & drop" ¿será posible en Python + GUI: tk/Qt?
+    + Básicamente he integrado las ideas de otros trantando con ello de aprender Python y crear algo útil. (seguro ya existe)
+    + Si con esto sale algo útil para la comunidad y que algo aprendamos.
 
 Problemas iniciales
 -----------
