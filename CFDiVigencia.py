@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: latin-1 -*-
+# - *- coding: utf-8 - *-
 # version 0.0.20150320
 # con apoyo de proyectos GIT: ".." ".." ".."
 #
@@ -90,7 +91,8 @@ class ParseXML:
             if self.__boolVerifica:
                 sat.get_estatus(self.__data)
             else:
-                sat.msg = u'(No se verificó)'
+                sat.msg = '(No se verificó)'
+
             #print(('\n%s, %s, %s, %s, %s, %s, %s' % (sat.msg, emisorRFC, emisorNombre, receptorRFC, receptorNombre, cfdiTotal, UUID)))
             print(('\n%s, %s, %s' % (sat.msg, emisorRFC, emisorNombre)))
             print(('%s, %s' % (receptorRFC, receptorNombre)))
