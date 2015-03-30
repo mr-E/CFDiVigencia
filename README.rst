@@ -36,6 +36,8 @@ Se ha comprobado que funciona en python 2.7.3
 
 Fallas detectadas:
 -----------
+Esta falla se puede corregir con el siguiente parche:
+    https://github.com/pysimplesoap/pysimplesoap/pull/52
 
 pySimpleSoap falla en version 3.4.3 (windows) y 3.2.3 (ubuntu), con este error:
 
