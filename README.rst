@@ -8,7 +8,7 @@ CFDiVigencia
     2015/03/20
 
 :Versión:
-    0.0.20150320
+    0.0.20150330
 
 
 Descripción
@@ -22,12 +22,14 @@ Objetivos y alcances
     + Integrar un visor (CFDView) que genere la representación impresa un formato simple "sin moños"
     + Que detecte correctamente el tipo de comprobante (factura, nomina, etc.)
     + Que soporte "drag & drop" ¿será posible en Python + GUI: tk/Qt?
-    + Básicamente he integrado las ideas de otros trantando con ello de aprender Python y crear algo útil. (seguro ya existe)
+    + Básicamente he integrado las ideas de otros tratando con ello de aprender Python y crear algo útil. (seguro ya existe)
     + Si con esto sale algo útil para la comunidad y que algo aprendamos.
+    + generar un archivo de salida con los datos suficientes como para procesarlos y guardarlo en una base de datos según se necesite.
 
 Lectura recomendada:
 -------------------
     + http://eli.thegreenplace.net/2012/03/15/processing-xml-in-python-with-elementtree
+    + BeautifulSoup : 
 
 Problemas iniciales
 -----------
